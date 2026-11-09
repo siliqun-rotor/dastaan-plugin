@@ -1,0 +1,20 @@
+{
+  "name": "dastaan",
+  "version": "0.2.0",
+  "description": "Short founder videos from a brief, in the founder's own words: five task skills and the dastaan-director agent, on the hosted Dastaan service (sign in with your Siliqun Rotor account).",
+  "author": {
+    "name": "Dastaan",
+    "url": "https://dastaan.hazirgenie.com"
+  },
+  "homepage": "https://dastaan.hazirgenie.com",
+  "license": "Apache-2.0",
+  "keywords": [
+    "video",
+    "motion",
+    "founder",
+    "marketing",
+    "arabic",
+    "mcp"
+  ],
+  "icon": "./assets/icon.png"
+}

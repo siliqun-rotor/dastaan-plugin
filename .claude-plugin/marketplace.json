@@ -1,0 +1,19 @@
+{
+  "name": "dastaan",
+  "owner": {
+    "name": "Dastaan",
+    "url": "https://dastaan.hazirgenie.com"
+  },
+  "metadata": {
+    "description": "Dastaan for Claude Code: short founder videos from a brief."
+  },
+  "plugins": [
+    {
+      "name": "dastaan",
+      "source": "./",
+      "description": "Short founder videos from a brief, in the founder's own words: five task skills and the dastaan-director agent, on the hosted Dastaan service (sign in with your Siliqun Rotor account).",
+      "version": "0.2.0",
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+ "langs": ["en"], "seconds": 15, "brand": { "color": "#b5562b" },
+ "scenes": [
+  { "role": "open", "kicker": "Corner Bakery", "headline": "Bread worth waking up for" },
+  { "role": "list", "heading": "Every morning", "items": ["Baked at 5", "Local flour", "No shortcuts"] },
+  { "role": "number", "value": "40", "label": "loaves a day" },
+  { "role": "close", "action": "Order before 9", "handle": "@cornerbakery" }
+ ]
+}

@@ -1,0 +1,5 @@
+[
+ { "op": "replace", "path": "/scenes/2/value", "value": "60" },
+ { "op": "add", "path": "/scenes/3", "value": { "role": "offer", "headline": "This weekend", "big": "20% off", "note": "Every cake" } },
+ { "op": "replace", "path": "/seconds", "value": 20 }
+]

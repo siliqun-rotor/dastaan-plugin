@@ -1,0 +1,14 @@
+{
+ "langs": ["en", "ar"], "seconds": 15, "brand": { "color": "#1f5a3a" },
+ "scenes": [
+  { "role": "open", "kicker": "SkyPlan", "headline": { "en": "Your 3D site model in 48 hours.", "ar": "نموذج موقعك ثلاثي الأبعاد خلال 48 ساعة." } },
+  { "role": "point", "phrases": [{ "en": "Most site surveys take weeks.", "ar": "معظم مسوحات المواقع تستغرق أسابيع." }, { "en": "Ours doesn't.", "ar": "مسحنا لا." }] },
+  { "role": "list", "heading": { "en": "What you get", "ar": "ما تحصل عليه" }, "items": [{ "en": "A drone survey", "ar": "مسح بالطائرة المسيّرة" }, { "en": "A 3D model", "ar": "نموذج ثلاثي الأبعاد" }, { "en": "A measurement report", "ar": "تقرير القياسات" }] },
+  { "role": "number", "value": "120", "label": { "en": "sites mapped in Riyadh", "ar": "موقعاً مسحناه في الرياض" } },
+  { "role": "close", "action": { "en": "Book your survey", "ar": "احجز مسحك" }, "handle": "skyplan.sa" }
+ ],
+ "hooks": [
+  { "type": "information", "headline": { "en": "Most site surveys take weeks. Ours doesn't.", "ar": "معظم مسوحات المواقع تستغرق أسابيع. مسحنا لا." } },
+  { "type": "value", "headline": { "en": "120 sites mapped in Riyadh.", "ar": "120 موقعاً مسحناه في الرياض." } }
+ ]
+}

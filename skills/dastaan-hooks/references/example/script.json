@@ -1,0 +1,10 @@
+{
+ "langs": ["en"], "seconds": 15, "brand": { "color": "#1f5a3a" },
+ "scenes": [
+  { "role": "open", "headline": "Your 3D site model in 48 hours." },
+  { "role": "point", "phrases": ["Most site surveys take weeks.", "Ours doesn't."] },
+  { "role": "list", "heading": "What you get", "items": ["A drone survey", "A 3D model", "A measurement report"] },
+  { "role": "number", "value": "120", "label": "sites mapped in Riyadh" },
+  { "role": "close", "action": "Book your survey", "handle": "skyplan.sa" }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "dastaan",
+  "version": "0.2.0",
+  "description": "Short founder videos from a brief, in the founder's own words: five task skills and the dastaan-director agent, on the hosted Dastaan service (sign in with your Siliqun Rotor account).",
+  "author": {
+    "name": "Dastaan",
+    "url": "https://dastaan.hazirgenie.com"
+  },
+  "homepage": "https://dastaan.hazirgenie.com",
+  "license": "Apache-2.0",
+  "keywords": [
+    "video",
+    "motion",
+    "founder",
+    "marketing",
+    "arabic",
+    "mcp"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.codex-mcp.json",
+  "interface": {
+    "displayName": "Dastaan",
+    "shortDescription": "Short founder videos from a brief",
+    "longDescription": "Turn a founder's own words, numbers and logo into a checked short video in English and Arabic, in every social size, on Dastaan's hosted service. Sign in with your Siliqun Rotor account; nothing runs on your machine.",
+    "developerName": "Dastaan",
+    "category": "Productivity",
+    "websiteURL": "https://dastaan.hazirgenie.com",
+    "defaultPrompt": "Make a 15-second video for my business from this brief:",
+    "brandColor": "#F0A202",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/icon.png"
+  }
+}
