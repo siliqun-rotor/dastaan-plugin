@@ -11,7 +11,7 @@
     {
       "name": "dastaan",
       "source": "./",
-      "description": "Short founder videos from a brief, in the founder's own words: five task skills and the dastaan-director agent, on the hosted Dastaan service (sign in with your Siliqun Rotor account).",
+      "description": "Short founder videos from a brief, in the founder's own words: six task skills and the dastaan-director agent, on the hosted Dastaan service (sign in with your Dastaan account).",
       "version": "0.2.0",
       "category": "productivity"
     }

@@ -10,12 +10,12 @@ argument-hint: "[the founder's brief or file] [seconds] [languages] [sizes]"
 
 You write the words; Dastaan does everything else (layout, colours readable from one brand colour, timing fitted
 to the length, transitions, every size and English or Arabic right to left) and holds each word and number to the
-founder's brief. It runs on Dastaan's hosted service, signed in with the founder's Siliqun Rotor account.
+founder's brief. It runs on Dastaan's hosted service, signed in with the founder's Dastaan account.
 
 ## Before you start
 
 The tools are the `dastaan_*` tools of the hosted Dastaan MCP server (`dastaan`, connected by this plugin). They run on
-Dastaan's service, signed in with the founder's Siliqun Rotor account (the same account as the Dastaan app): if a call
+Dastaan's service, signed in with the founder's Dastaan account (the same account as the Dastaan app): if a call
 answers that sign-in is needed, ask the founder to authenticate the `dastaan` server (Claude Code: `/mcp`; Codex:
 `codex mcp login dastaan`). Nothing is installed or run on this machine. Pictures and logos go in as https addresses
 or data: URIs, a CSV as its text. `dastaan_account` says which account is signed in; `dastaan_library` lists its videos

@@ -1,7 +1,7 @@
 {
   "name": "dastaan",
   "version": "0.2.0",
-  "description": "Short founder videos from a brief, in the founder's own words: five task skills and the dastaan-director agent, on the hosted Dastaan service (sign in with your Siliqun Rotor account).",
+  "description": "Short founder videos from a brief, in the founder's own words: six task skills and the dastaan-director agent, on the hosted Dastaan service (sign in with your Dastaan account).",
   "author": {
     "name": "Dastaan",
     "url": "https://dastaan.hazirgenie.com"
@@ -21,7 +21,7 @@
   "interface": {
     "displayName": "Dastaan",
     "shortDescription": "Short founder videos from a brief",
-    "longDescription": "Turn a founder's own words, numbers and logo into a checked short video in English and Arabic, in every social size, on Dastaan's hosted service. Sign in with your Siliqun Rotor account; nothing runs on your machine.",
+    "longDescription": "Turn a founder's own words, numbers and logo into a checked short video in English and Arabic, in every social size, on Dastaan's hosted service. Sign in with your Dastaan account; nothing runs on your machine.",
     "developerName": "Dastaan",
     "category": "Productivity",
     "websiteURL": "https://dastaan.hazirgenie.com",

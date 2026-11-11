@@ -13,8 +13,8 @@ English and Arabic, in 9:16, 4:5, 1:1 and 16:9. This plugin gives an agent six s
 | `dastaan-library` | finding, reopening and continuing saved videos |
 
 The work runs on Dastaan's hosted service (`https://mcp.dastaan.hazirgenie.com/mcp`), and nothing is installed on your
-machine. You sign in once with your **Siliqun Rotor account**, the same account as the Dastaan app at
-https://dastaan.hazirgenie.com/app/. New accounts sign up there, with Google or email.
+machine. You sign in once with your **Dastaan account**, the same account as the Dastaan app at
+https://dastaan.hazirgenie.com/app/. New accounts sign up there, with an invite code.
 
 ## Install
 
